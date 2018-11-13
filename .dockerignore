@@ -1,0 +1,9 @@
+Dockerfile
+LICENSE
+Makefile
+README.md
+app.yaml
+.gcloudignore
+.gitignore
+.idea
+.vscode
